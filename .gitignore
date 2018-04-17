@@ -1,0 +1,7 @@
+*.swp
+*.swo
+env/
+__pycache__
+secrets.py
+*.pyc
+easyrash.log
